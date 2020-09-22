@@ -1,7 +1,7 @@
 # Políticas
 
 Para contribuir conosco, siga as políticas do repositório:
-  - [Branches](policies/Branches.md)
-  - [Commits](policies/Commits.md)
-  - [Issues](policies/Issues.md)
-  - [Pull Requests](policies/PullRequests.md)
+  - [Branches](policies/branchPolicie.md)
+  - [Commits](policies/commitPolicie.md)
+  - [Issues](policies/issuePolicie.md)
+  - [Pull Requests](policies/pullRequestPolicie.md)
