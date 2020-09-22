@@ -1,0 +1,22 @@
+{
+  "name": "orcommerce-docs",
+  "version": "1.0.0",
+  "description": "Documentação Orc'ommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrcestraGamificacao/Orcommerce-Docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrcestraGamificacao/Orcommerce-Docs/issues"
+  },
+  "homepage": "https://github.com/OrcestraGamificacao/Orcommerce-Docs#readme",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.0.6"
+  }
+}
