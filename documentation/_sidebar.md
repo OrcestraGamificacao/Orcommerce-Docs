@@ -1,3 +1,6 @@
-- Getting started
-
-  - [Quick Start](quickstart.md)
+- [Sobre](README.md)
+- [Políticas](policies/policies.md)
+  - [Branches](policies/branchPolicie.md)
+  - [Commits](policies/commitPolicie.md)
+  - [Issues](policies/issuePolicie.md)
+  - [Pull Requests](policies/pullRequestPolicie.md)
