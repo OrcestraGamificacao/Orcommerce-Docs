@@ -4,3 +4,7 @@
   - [Commits](policies/commitPolicie.md)
   - [Issues](policies/issuePolicie.md)
   - [Pull Requests](policies/pullRequestPolicie.md)
+- Arquitetura
+  - [Diagrama de Pacotes](modeling/pathDiagram.md)
+  - [Diagrama de Classes](modeling/classDiagram.md)
+  - [Diagrama de Entidade e Relacinamento](modeling/DER.md)

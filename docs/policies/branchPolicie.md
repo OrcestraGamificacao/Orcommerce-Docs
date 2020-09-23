@@ -1,5 +1,6 @@
 # Política de Branches
 
+Primeiro de tudo, sempre que for criar uma nova branch certifique-se que você está na devel e crie a branch a partir dela.
 
 As _branches_ devem seguir o seguinte padrão:
 
